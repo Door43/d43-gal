@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gal:home|Door43 (gal)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gal|d43-gal repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gal/archive/master.zip|d43-gal.zip]]
+
+**Recent Changes**
+{{changes>ns = gal}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gal|Ethnologue data]]
+
